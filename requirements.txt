@@ -1,0 +1,10 @@
+pytelegrambotapi
+requests
+Установка библиотек
+Перед запуском бота установите необходимые библиотеки:
+
+pip install -r requirements.txt
+Запуск бота
+Запустите бота, выполнив команду:
+
+python bot.py
